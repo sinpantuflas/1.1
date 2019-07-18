@@ -1,3 +1,6 @@
+##Disclaimer
+This repository is intended to help port the MIDI toolbox to python.
+
 #MIDI toolbox 1.1 (2016)
 MIDI toolbox is a Matlab software library for analysing MIDI files.
 
