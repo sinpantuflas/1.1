@@ -1,7 +1,7 @@
-##Disclaimer
+## Disclaimer
 This repository is intended to help port the MIDI toolbox to python.
 
-#MIDI toolbox 1.1 (2016)
+# MIDI toolbox 1.1 (2016)
 MIDI toolbox is a Matlab software library for analysing MIDI files.
 
 MIDI Toolbox was written by Tuomas Eerola and Petri Toiviainen in 2004. The current update contains additional contributions by Ed Large and his group as well as Ken Schutte (for reading MIDI files).
